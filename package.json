@@ -20,6 +20,7 @@
   "homepage": "https://github.com/Thymas1/HTTPRequestMaker_back#readme",
   "dependencies": {
     "axios": "^0.24.0",
+    "cors": "^2.8.5",
     "dotenv": "^10.0.0",
     "express": "^4.17.2",
     "lodash.get": "^4.4.2",
